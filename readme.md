@@ -18,3 +18,6 @@
 - npm install
 #Lancez le bot :
 - node index.js
+
+# Version 1.0.0
+- Le bot sera amené à avoir des améliorations au fils du temps ?
